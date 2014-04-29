@@ -3,9 +3,9 @@
 
 ***
 
-**Original Repository:** http://sourceforge.net/projects/avra/files/1.3.0/
-**Avra Version**: 1.3.0
-**Platform**: GNU/Linux
+**Original Repository:** http://sourceforge.net/projects/avra/files/1.3.0/ <br>
+**Avra Version**: 1.3.0 <br>
+**Platform**: GNU/Linux <br>
 *Tested on Debian GNU/Linux*
 
 ## Installation
