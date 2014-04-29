@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # This script configures, compiles and installs avra using automake utilities
 cp ../{AUTHORS,ChangeLog,NEWS,README} .
 aclocal
